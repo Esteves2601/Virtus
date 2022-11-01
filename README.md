@@ -2,7 +2,7 @@
  Meu primeiro jogo
 
 
-# Bom, não tem muita coisa para explicar além da mecânica dos itens
+# Bom, não tem muita coisa para explicar além da mecânica dos itens.
 
 # Espada de Esqueleto 
 
@@ -18,24 +18,24 @@
 
 # Chave 
 
-- Em uma das salas terá uma chave que você achará quando entrar, ela irá liberar um cofre em outro quarto
+- Em uma das salas terá uma chave que você achará quando entrar, ela irá liberar um cofre em outro quarto.
 
 # Peitoral 
 
-- Após abrir o cofre, você consegue o peitoral que adiciona 50 a sua vida máxima
+- Após abrir o cofre, você consegue o peitoral que adiciona 50 a sua vida máxima.
 
 # Bom, após explicar os itens, vamos aos monstros e como suas batalhas serão.
 
 # Esqueleto 
 
-- Duelo de D20, para ele causar dano a você, ele terá que acertar 17, enquanto você 15
+- Duelo de D20, para ele causar dano a você, ele terá que acertar 17, enquanto você 15.
 
 # Slime 
 
-- Duelo de ímpar ou par, todos já sabem, não precisa de muita explicação
+- Duelo de ímpar ou par, todos já sabem, não precisa de muita explicação.
 
 # Morcego 
 
-- Duelo de Jokempo, ou pedra, papel e tesoura para alguns
+- Duelo de Jokempo, ou pedra, papel e tesoura para alguns.
 
-# Agora de resto, você saberá jogando, para isso, coloque esse código em algum leitor de C# e aproveite6
+# Agora de resto, você saberá jogando, para isso, coloque esse código em algum leitor de C# e aproveite6.
