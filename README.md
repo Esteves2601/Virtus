@@ -2,9 +2,11 @@
  Meu primeiro jogo
 
 
-Bom, não tem muita coisa para explicar além da mecânica dos itens
+# Bom, não tem muita coisa para explicar além da mecânica dos itens
 
-Espada de Esqueleto - O nome é bem autoexplicativo, quando você matar um esqueleto ele irá droppar sua espada, aumentando seu dano de 25 para 50, a espada irá durar 5 batalhas e quebrará.
+# Espada de Esqueleto 
+
+- O nome é bem autoexplicativo, quando você matar um esqueleto ele irá droppar sua espada, aumentando seu dano de 25 para 50, a espada irá durar 5 batalhas e quebrará.
 
 # Poção de cura 
 
